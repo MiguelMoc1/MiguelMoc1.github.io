@@ -6,6 +6,8 @@ title: "Miguel Angel Moctezuma Cedillo"
 # 👋 ¡Hola! Soy Miguel Angel Moctezuma Cedillo
 **Científico de Datos | Analista Financiero | FP&A**
 
+![Foto de perfil](assets/img/miguel_moctezuma.png){: .profile-pic }
+
 [LinkedIn](https://www.linkedin.com/in/miguelmoctezuma1/) | [GitHub](https://github.com/MiguelMoc1)
 
 ---
