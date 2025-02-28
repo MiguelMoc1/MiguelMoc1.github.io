@@ -6,7 +6,7 @@ title: "Miguel Angel Moctezuma Cedillo"
 <link rel="stylesheet" href="assets/styles.css">
 
 # 👋 ¡Hola! Soy Miguel Angel Moctezuma Cedillo
-**Científico de Datos | Analista Financiero | FP&A**
+**Científico de Datos | Analista de datos | FP&A**
 
 <img src="assets/miguel_moctezuma.PNG" alt="Foto de perfil" class="profile-pic" />
 
