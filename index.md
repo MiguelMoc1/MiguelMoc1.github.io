@@ -3,10 +3,13 @@ layout: default
 title: "Miguel Angel Moctezuma Cedillo"
 ---
 
+<link rel="stylesheet" href="assets/css/styles.css">
+
 # 👋 ¡Hola! Soy Miguel Angel Moctezuma Cedillo
 **Científico de Datos | Analista Financiero | FP&A**
 
 <img src="assets/miguel_moctezuma.PNG" alt="Foto de perfil" class="profile-pic" />
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelmoctezuma1/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelMoc1)
