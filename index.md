@@ -3,7 +3,7 @@ layout: default
 title: "Miguel Angel Moctezuma Cedillo"
 ---
 
-<link rel="stylesheet" href="assets/css/styles.css">
+<link rel="stylesheet" href="assets/styles.css">
 
 # 👋 ¡Hola! Soy Miguel Angel Moctezuma Cedillo
 **Científico de Datos | Analista Financiero | FP&A**
